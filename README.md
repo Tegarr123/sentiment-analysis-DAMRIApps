@@ -17,4 +17,11 @@ sentiment-analysis-DAMRIApps
 ```
 ## 🛠️ Tools and Libraries
 - Jupyter Notebook = tool for writing code in python
-- ```pandas```=Library for data manipulation and analysis.
+- ```pandas``` = Library for data manipulation and analysis.
+- ```google_play_scraper``` = Library for scrapping app information and user reviews from Google Play Store.
+- ```numpy``` = Library for numerical computing in Python.
+- ```nltk``` = Library for NLP (Natural Language Processing) toolkit.
+- ```matplotlib``` & ```seaborn``` = Library for Data visualization.
+- ```re``` = Library for Text processing with regex.
+- ```PySastrawi``` = Library for Indonesian language stemming.
+- ```scikit-learn``` & ```xgboost``` = Library for machine learning model.
