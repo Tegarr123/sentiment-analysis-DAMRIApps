@@ -1,6 +1,6 @@
 # 📈 DAMRI Apps Sentiment Analysis
 This project focuses on sentiment analysis of user reviews for the **DAMRI Apps mobile application** collected from the Google Play Store. The purpose of this study is to understand user perceptions, highlight recurring issues, and gain insights that can help improve the quality and usability of the application.
-<br>![DAMRI Images](images/damri.jpg)
+<br><img src="images/damri.jpg" width="1280"><br>
 ## 📂 Project STructure
 ```bash
 sentiment-analysis-DAMRIApps
