@@ -44,3 +44,21 @@ Notebook for preprocessing reviews with the following techniques:
 - Stemming
 - Stopwords removal
 - Expand contraction (handling shortened words/phrases)
+### 03_DAMRI_Apps_RegEx.ipynb
+Notebook for advanced preprocessing using regular expressions (RegEx) to handle specific text-cleaning scenarios that cannot be addressed through simple preprocessing steps.
+### 04_DAMRI_Apps_BoW.ipynb
+Notebook for implementing Bag of Words (BoW) representation of the cleaned text. This provides a baseline text representation method for further analysis.
+### 05_DAMRI_Apps_EDA.ipynb
+Exploratory Data Analysis (EDA) on the preprocessed dataset to uncover insights such as:
+- Score distribution
+- Number of Reviews per year
+- Common positive and negative terms
+- Sentiment trends across reviews
+### 06_DAMRI_Apps_TF-IDF.ipynb
+Notebook for TF-IDF vectorization and sentiment classification using multiple machine learning models:
+- Support Vector Machine (SVM)
+- Logistic Regression
+- Naive Bayes
+- XGBoost
+- Random Forest
+This stage evaluates the performance of various algorithms to determine the most effective model for sentiment analysis on DAMRI Apps reviews.
