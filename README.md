@@ -63,8 +63,8 @@ Notebook for TF-IDF vectorization and sentiment classification using multiple ma
 - Random Forest
 This stage evaluates the performance of various algorithms to determine the most effective model for sentiment analysis on DAMRI Apps reviews.
 ## 📝 Additional Notes
-**Platform**: Google Playstore
-**Language Scrapped**: Indonesia
-**Objective**: Sentiment Analysis and Classification
-**Application Name**: Damri Apps
-**File Format**: ```.ipynb``` (python notebook)
+**Platform**: Google Playstore<br>
+**Language Scrapped**: Indonesia<br>
+**Objective**: Sentiment Analysis and Classification<br>
+**Application Name**: Damri Apps<br>
+**File Format**: ```.ipynb``` (python notebook)<br>
