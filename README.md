@@ -25,3 +25,13 @@ sentiment-analysis-DAMRIApps
 - ```re``` = Library for Text processing with regex.
 - ```PySastrawi``` = Library for Indonesian language stemming.
 - ```scikit-learn``` & ```xgboost``` = Library for machine learning model.
+## 📒 Notebook Description
+### 01_DAMRI_Apps_Scrapping.ipynb
+Notebook for scraping DAMRI Apps reviews from the Google Play Store (Indonesian language only). This step collects raw review data with ```google_play_scraper``` library, and the extracts following feature.
+- ```content```
+- ```score```
+- ```thumbsUpCount```
+- ```reviewCreatedVersion```
+- ```at```
+- ```replyContent```
+-  ```repliedAt```
