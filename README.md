@@ -35,3 +35,12 @@ Notebook for scraping DAMRI Apps reviews from the Google Play Store (Indonesian 
 - ```at```
 - ```replyContent```
 -  ```repliedAt```
+### 02_DAMRI_Apps_Preprocessing.ipynb
+Notebook for preprocessing reviews with the following techniques:
+- Emoji removal
+- Punctuation removal
+- Case lowering (normalization to lowercase)
+- Tokenization
+- Stemming
+- Stopwords removal
+- Expand contraction (handling shortened words/phrases)
