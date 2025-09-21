@@ -15,3 +15,6 @@ sentiment-analysis-DAMRIApps
     ├── 05_DAMRI_Apps_EDA.ipynb
     └── 06_DAMRI_Apps_TF-IDF.ipynb
 ```
+## 🛠️ Tools and Libraries
+- Jupyter Notebook = tool for writing code in python
+- ```pandas```=Library for data manipulation and analysis.
